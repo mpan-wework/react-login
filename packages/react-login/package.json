@@ -1,0 +1,36 @@
+{
+  "name": "@mpan-wework/react-login",
+  "version": "0.0.1",
+  "description": "React Hooks for login through JWT",
+  "keywords": [
+    "react"
+  ],
+  "author": {
+    "name": "mpan-wework",
+    "email": "mike.pan@wework.com",
+    "url": "https://github.com/mpan-wework"
+  },
+  "homepage": "https://github.com/mpan-wework/react-login",
+  "license": "MIT",
+  "main": "dist/index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mpan-wework/react-login.git",
+    "directory": "packages/react-login"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/mpan-wework/react-login/issues"
+  },
+  "devDependencies": {
+    "react": "^16.13.1"
+  },
+  "peerDependencies": {
+    "react": "^16.13.1"
+  }
+}
